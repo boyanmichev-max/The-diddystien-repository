@@ -6,8 +6,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add a click event listener to the button
     ctaButton.addEventListener('click', function() {
         // Display a simple alert box when the button is clicked
-        alert('Thanks for your interest! Email me at your.email@example.com');
+        alert('Thanks for your interest! Email me at boyan.michev777@gmail.com');
     });
 
     console.log('Portfolio scripts loaded!');
 });
+
